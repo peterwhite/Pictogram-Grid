@@ -20,17 +20,17 @@ Pictogram Grid was created to generate IE6 compatible pictograms from JSON using
         "values": [{
             "legend": "Noticeably Better",
             "weight": 30,
-            "colour": "green", //Will be added as a CSS class to the individual icon
+            "colour": "green", //Will be added as a CSS class to the legend
             "image": "person_green.jpg" 
         }, {
             "legend": "Not Different Than Before",
             "weight": 28,
-            "colour": "yellow", //Will be added as a class to the individual icon
+            "colour": "yellow", //Will be added as a CSS class to the legend
             "image": "person_yellow.jpg"
         }, {
             "legend": "Noticeably Worse",
             "weight": 42,
-            "colour": "red", //Will be added as a class to the individual icon
+            "colour": "red", //Will be added as a CSS class to the legend
             "image": "person_red.jpg"
         }]
     }]
