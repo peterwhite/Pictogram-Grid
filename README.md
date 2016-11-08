@@ -6,7 +6,7 @@ The pictogram, also known as a isotype, uses a series of repeating icons to repr
 Pictogram Grid was created to generate IE6 compatible pictograms from JSON using Underscore.js 1.8.3. It can create a single Pictogram Grid or a series of them.
 
 ## Demo
-<a href="http://peterwhite.github.io/Pictogram-Grid/index.html">See Live Demo Here</a>
+<a href="http://peterwhite.github.io/PictogramGrid.js/index.html">See Live Demo Here</a>
 
 <img src="http://i.imgur.com/yeTYlyN.png" width="300">
 
