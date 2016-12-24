@@ -1,8 +1,119 @@
-<markers>
-<!-- Marker Z has no html to show nonclickability-->
-<marker lat="-32.053128" lng="115.745869" html="Fremantle"  icon="1" color="6b98ff"/>
-<!-- Standard marker with html-->
-<marker lat="-32.036036" lng="115.92724" html="Lynwood&lt;br&gt;Residence of the author" color="ffed5c"/>
-<!-- Character marker with html that includes link-->
-<marker lat="-31.956659" lng="115.869906" html="&lt;a href=&quot;http://perthmint.com.au&quot; rel=&quot;nofollow&quot;&gt;Perth Mint&lt;/a&gt;" icon="$" color="ffffff"/>
-</markers>
+<source>
+<publisher>Recruitment Queen</publisher>
+<publisherurl>http://www.recruitmentqueen.com</publisherurl>
+<lastBuildDate>2016-12-24 00:00:00 UTC</lastBuildDate>
+<job>
+<title>
+<![CDATA[ Purchasing and Contracting Administrator ]]>
+</title>
+<url>
+<![CDATA[
+http://www.recruitmentqueen.com/jobs/855805-purchasing-and-contracting-administrator-at-physicians-endoscopy
+]]>
+</url>
+<referencenumber>
+<![CDATA[ 855805 ]]>
+</referencenumber>
+<date>
+<![CDATA[ Fri, 23 Dec 2016 11:27:32 EST ]]>
+</date>
+<expiration_date>
+<![CDATA[ 01/22/2017 ]]>
+</expiration_date>
+<updated>
+<![CDATA[ Fri, 23 Dec 2016 11:27:35 EST ]]>
+</updated>
+<company>
+<![CDATA[ Physicians Endoscopy ]]>
+</company>
+<location lat="-31.956659" lng="115.869906" html="&lt;a href=&quot;http://perthmint.com.au&quot; rel=&quot;nofollow&quot;&gt;Perth Mint&lt;/a&gt;" icon="$" color="ffffff">
+<![CDATA[ Jamison, PA ]]>
+</location>
+<city>
+<![CDATA[ Jamison ]]>
+</city>
+<state>
+<![CDATA[ Pennsylvania ]]>
+</state>
+<zip></zip>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<description>
+</description>
+<jobtype>
+<![CDATA[ Full Time ]]>
+</jobtype>
+<featured>
+<![CDATA[ false ]]>
+</featured>
+<priority>
+<![CDATA[ Standard ]]>
+</priority>
+<logo>
+<![CDATA[
+https://d6dyoorq84mou.cloudfront.net/uploads/job/logo/855805/physicians_endoscopy.jpg
+]]>
+</logo>
+<category>
+<![CDATA[ Healthcare ]]>
+</category>
+</job>
+  <job>
+<title>
+<![CDATA[ Purchasing and Contracting Administrator ]]>
+</title>
+<url>
+<![CDATA[
+http://www.recruitmentqueen.com/jobs/855805-purchasing-and-contracting-administrator-at-physicians-endoscopy
+]]>
+</url>
+<referencenumber>
+<![CDATA[ 855805 ]]>
+</referencenumber>
+<date>
+<![CDATA[ Fri, 23 Dec 2016 11:27:32 EST ]]>
+</date>
+<expiration_date>
+<![CDATA[ 01/22/2017 ]]>
+</expiration_date>
+<updated>
+<![CDATA[ Fri, 23 Dec 2016 11:27:35 EST ]]>
+</updated>
+<company>
+<![CDATA[ Physicians Endoscopy ]]>
+</company>
+<location lat="-11.956659" lng="115.869906" html="&lt;a href=&quot;http://perthmint.com.au&quot; rel=&quot;nofollow&quot;&gt;Perth Mint&lt;/a&gt;" icon="$" color="ffffff">
+<![CDATA[ Jamison, PA ]]>
+</location>
+<city>
+<![CDATA[ Jamison ]]>
+</city>
+<state>
+<![CDATA[ Pennsylvania ]]>
+</state>
+<zip></zip>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<description>
+</description>
+<jobtype>
+<![CDATA[ Full Time ]]>
+</jobtype>
+<featured>
+<![CDATA[ false ]]>
+</featured>
+<priority>
+<![CDATA[ Standard ]]>
+</priority>
+<logo>
+<![CDATA[
+https://d6dyoorq84mou.cloudfront.net/uploads/job/logo/855805/physicians_endoscopy.jpg
+]]>
+</logo>
+<category>
+<![CDATA[ Healthcare ]]>
+</category>
+</job>
+</source>
