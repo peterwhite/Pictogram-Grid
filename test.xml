@@ -1,8 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <markers>
-    <marker id="1" name="Arsenal" markerimage="images/arsenal.png" address1="Emirates Stadium" address2="Highbury House" address3="75 Drayton Park" city="London" postcode="N5 1BU" lat="51.5560928" lng="-0.1053014" />
-    <marker id="2" name="Aston Villa" markerimage="images/astonvilla.png" address1="Villa Park" address2="" address3="" city="" postcode="B6 6HE" lat="52.5087462" lng="-1.8854229" />
-    <marker id="3" name="Cardiff City" markerimage="images/cardiff.png" address1="Cardiff City Stadium" address2="Leckwith Road" address3="Leckwith" city="Cardiff" postcode="CF11 8AZ" lat="51.4725065" lng="-3.2047995" />
-    <marker id="4" name="Chelsea FC" markerimage="images/chelsea.png" address1="Stamford Bridge" address2="Fulham Road" address3="" city="London" postcode="SW6 1HS" lat="51.4807263" lng="-0.1906128" />
-    <marker id="5" name="Crystal Palace" markerimage="images/crystalpalace.png" address1="Selhurst Park Stadium" address2="Whitehorse Lane" address3="" city="London" postcode="SE25 6PU" lat="51.3977037" lng="-0.0854231" />
+<!-- Marker Z has no html to show nonclickability-->
+<marker lat="-31.9554" lng="115.85859"  icon="Z" color="c89bff"/>
+<marker lat="-32.053128" lng="115.745869" html="Fremantle"  icon="1" color="6b98ff"/>
+<!-- Standard marker with html-->
+<marker lat="-32.036036" lng="115.92724" html="Lynwood&lt;br&gt;Residence of the author" color="ffed5c"/>
+<marker lat="-31.963013" lng="115.836239" html="Kings Park" icon="KP" color="97ec7d"/>
+<!-- Character marker with html that includes link-->
+<marker lat="-31.956659" lng="115.869906" html="&lt;a href=&quot;http://perthmint.com.au&quot; rel=&quot;nofollow&quot;&gt;Perth Mint&lt;/a&gt;" icon="$" color="ffffff"/>
+<!-- Example of two lines-->
+<line colour="#0000FF" width="2" opacity="0.75">
+    <point lat="-32.027579" lng="115.751266" />
+    <point lat="-31.987404" lng="115.769463" />
+    <point lat="-31.957697" lng="115.852203" />
+    <point lat="-31.963814" lng="115.879326" />
+    <point lat="-32.026415" lng="115.942154" />
+</line>
+<points colour="#FF0000" width="4" opacity="0.75">
+    <point lat="-32.053128" lng="115.745869" />
+    <point lat="-31.963013" lng="115.836239" />
+    <point lat="-31.9554" lng="115.85859" />
+    <point lat="-31.956659" lng="115.869906" />
+    <point lat="-32.036036" lng="115.92724" />
+</points> 
 </markers>
